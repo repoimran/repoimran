@@ -8,8 +8,7 @@
     <tbody>
       <tr>
         <td colspan="2" align="center">
-          <h2 align="center"><i> Hi There..</i></h2>
-          <img src="#" alt="imsdhk" />
+          <h2 align="center"><i> don't hesitate to reach out if you have any questions or just want to geek out over some code</i></h2>
         </td>
       </tr>
       <tr>
@@ -98,3 +97,5 @@
     </tbody>
   </table>
 </div>
+
+
