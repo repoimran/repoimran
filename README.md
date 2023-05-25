@@ -22,6 +22,7 @@
             <a href="https://www.blackmagicdesign.com/br/products/davinciresolve"><img src="https://img.shields.io/badge/Video_Editing-DaVinci_Resolve-E64B3D?style=flat&logo=davinci-resolve&logoColor=white"></a>
           <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
             <a href="#blank">
+<!--               https://dev.to/envoy_/150-badges-for-github-pnk -->
               <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
               <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=linux&logoColor=white">
               <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
@@ -29,10 +30,10 @@
               <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
               <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
               <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
-              <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
+       
               <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
               <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white">
-              <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
+
             </a>
           <br><p><b>📚「 STUDYING 」</b></p>
             <a href="#blank">
