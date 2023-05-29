@@ -20,20 +20,24 @@
           <a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Design-GIMP-657D8B?style=flat&logo=gimp&logoColor=FFFFFF"></a>
           <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Web_Design-Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"></a>
           <a href="https://www.blackmagicdesign.com/br/products/davinciresolve"><img src="https://img.shields.io/badge/Video_Editing-DaVinci_Resolve-E64B3D?style=flat&logo=davinci-resolve&logoColor=white"></a>
-          <br><p><b>🚀 TECHNOLOGIES</b></p>
-          <a href="#blank">
-            <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-            <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
-            <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-            <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
-            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-            <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-          </a>
+         <br><p><b>🚀 TECHNOLOGIES</b></p>
+<a href="#blank">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Automation-FF0000?style=flat&logo=robotframework&logoColor=white">
+  <img src="https://img.shields.io/badge/RestAssured-000000?style=flat&logo=rest-assured&logoColor=white">
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white">
+</a>
         </td>
         <td colspan="1" align="center">
           <p><b>👀 SOCIALS</b></p>
