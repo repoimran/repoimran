@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Automation-FF0000?style=flat&logo=robotframework&logoColor=white">
   <img src="https://img.shields.io/badge/RestAssured-000000?style=flat&logo=rest-assured&logoColor=white">
   <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white">
-  <img src="https://pixabay.com/illustrations/karate-sun-mountain-sunset-battle-4082019/">
+  <img src="https://avatars.githubusercontent.com/u/91312095?s=200&v=4">
 </a>
         </td>
         <td colspan="1" align="center">
