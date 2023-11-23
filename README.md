@@ -1,98 +1,199 @@
-<div>
-  <table>
-    <thead>
-      <tr>
-        <th align="left">⚙️ Imran's Repo</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td colspan="2" align="center">
-          <h2 align="center"><i>Don't hesitate to reach out if you have any questions or just want to geek out over some code</i></h2>
-        </td>
-      </tr>
-      <tr>
-      </tr>
-      <tr>
-        <td colspan="1" align="center">
-          <p><b>🪛 TOOLS</b></p>
-          <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"></a>
-          <a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Design-GIMP-657D8B?style=flat&logo=gimp&logoColor=FFFFFF"></a>
-          <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Web_Design-Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"></a>
-          <a href="https://www.blackmagicdesign.com/br/products/davinciresolve"><img src="https://img.shields.io/badge/Video_Editing-DaVinci_Resolve-E64B3D?style=flat&logo=davinci-resolve&logoColor=white"></a>
-         <br><p><b>🚀 TECHNOLOGIES</b></p>
-<a href="#blank">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/Automation-FF0000?style=flat&logo=robotframework&logoColor=white">
-  <img src="https://img.shields.io/badge/RestAssured-000000?style=flat&logo=rest-assured&logoColor=white">
-  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat&logo=postman&logoColor=white">
-</a>
-        </td>
-        <td colspan="1" align="center">
-          <p><b>👀 SOCIALS</b></p>
-          <a href="https://gitlab.com/repoimran"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
-          <a href="mailto:imsdhk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-          <a href="https://www.linkedin.com/in/imran-bronx/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=flat&logo=xda-developers&logoColor=white"></a>
-          <br><p><b>👨🏻‍💻 PC CONFIG</b></p>
-          <a href="https://amzn.to/3k4f5nh"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
-          <a href="https://amzn.to/3YVsGvM"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
-          <a href="https://amzn.to/3lI31J2"><img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white"></a>
-          <a href="https://amzn.to/3YQGKXF"><img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
-          <br><p><b>💾 OPERATING SYSTEMS</b></p>
-          <a href="https://www.microsoft.com/software-download/windows10"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
-          <a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/OS-Linux_Mint_\_Ubuntu_WSL-FFFFFF?style=flat&logo=linux-mint"></a>
-          <a href="#blank"><img src="https://img.shields.io/badge/OS-Android_13_(Pixel_Extended)-3DDC84?style=flat&logo=android&logoColor="></a>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <details>
-            <summary><b>⚡ Events/Experiences</b></summary>
-            <table align="center">
-              <thead align="center">
-                <tr>
-                  <th>Icon</th>
-                  <th>Name</th>
-                  <th>Company</th>
-                  <th>Date</th>
-                  <th>Learned</th>
-                </tr>
-              </thead>
-              <tbody align="center">
-                <tr>
-                  <td>
-                    <img src="https://github.com/TreinaDev.png" width="25px" style="vertical-align: middle;" />
-                  </td>
-                  <td><a href="https://treinadev.com.br/" target="_blank">TreinaDev 7</a></td>
-                  <td>Infotechno</td>
-                  <td>2021</td>
-                  <td>
-                    Git, Signing Keys,<br/>
-                    Ruby v3, Rails v6,<br/>
-                    TDD, Following Conventions,<br/>
-                    Linting, Pair Programming,<br/>
-                    Daily Meeting
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </details>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=34385e&center=true&width=1000&lines=Hello,+This+is++Mohammad+Tanzila +zafar+Sharkar...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
+
+<!-- You can use + symbol or %20 to give a space between words -->
+<!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
+ <h3 align="center">You can Hire me As</h3> 
+<!--  DS%20|%20Algorithms%20|%20OOP%20;  -->
+<h2 align="center">
+<a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&color=98acf2&width=500&height=50"></a>
+</h2>
 </div>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a title = "347-653-7214" href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Call" height="40" width="40" /></a>
+  &nbsp;
+  <a title = "tofaelkabir@gmail.com"  href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+  &nbsp;
+<!-- Use your linkedin account url at href -->
+<a title = "LinkedIn" href="https://www.linkedin.com/in/mohammadsharkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
+<a title = "Facebook" href="https://www.facebook.com/mohammad.t.sharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a>
+<a title = "Twitter" href="https://twitter.com/tofael483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/16836780/md-yeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="40" width="40" /></a> -->
+<!-- <a href="https://medium.com/@coderyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
+<a href="https://discord.gg/Md Yeamin#6366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md Yeamin#6366" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/raselofficialyoutube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raselofficialyoutube" height="30" width="40" /></a> -->
+</p>
+
+<h3 align="center">Languages and Tools</h3>
+</br>
+<p align="center">
+  <!--Others-->
+  <!-- Java  -->
+  <a title = "Java" href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height= "40" width="50"/> </a>
+      &nbsp;
+  <!-- Python -->
+<a title = "Python" href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python " height= "40" width="40"/> </a>
+&nbsp;
+  <!-- JS -->
+<a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
+  &nbsp; 
+ <!-- NodeJS --> 
+<!--  <a title = "NodeJS" href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+  &nbsp; -->
+  <!-- HTML -->
+  <a title = "HTML" href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
+  &nbsp;
+  <!-- CSS -->
+  <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="CSS" width="40" /> </a>
+  &nbsp;
+   <!-- Bootstrap -->
+  <a title = "Bootstrap" href="https://getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"  height= "45" width="50" /> </a>
+  &nbsp;
+  <!-- SQL  -->
+  <a title = "Oracle SQL Developer" href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" alt="SQL" width="40"/> </a>
+  &nbsp;
+  <!-- MYSQL -->
+  <a title = "MySQL" href="https://www.mysql.com/" target="_blank"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MYSQL" width="40" /> </a>
+  &nbsp;
+ <!-- MongoDb -->
+ <a title= "MongoDB" href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" />  </a> 
+  &nbsp; 
+  <!-- git -->
+  <a title = "Git" href="https://git-scm.com/downloads" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> </a>
+  &nbsp; 
+  <!-- GitHub  -->
+  <a title = "Github" href="https://github.com/alnumanqa" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" width="40"/> </a> 
+  &nbsp;  
+  <!--Maven-->
+<a title = "Maven" href="https://maven.apache.org/download.cgi" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJzOSI3AtkpYVLkOtbzVJry5wy83535JC2jEh_3og561Cui0BB1QWcz3xpTkWY-vFCXM&usqp=CAU" alt="Maven" width="40"/> </a>
+&nbsp;
+  <!-- Selenium_4  -->
+<a title = "Selenium" href="https://www.selenium.dev/downloads/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="Selenium_4 " width="40"/> </a>
+&nbsp;
+  <!-- Cucumber  -->
+  <a title= "BDD Cucumber"  href="https://cucumber.io/" target="_blank"> <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" alt="Cucumber" width="40"/> </a>
+  &nbsp;  
+  <!-- Rest Assured  -->
+   <a title = "Rest-Assured" href="https://rest-assured.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured " width="40"/> </a>
+   &nbsp;
+  <!-- Karate Framework -->
+<a title = "Karate" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework " width="40"/> </a>
+  &nbsp;
+  <!-- Appium  -->
+   <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
+  &nbsp;
+  <!-- Postman  -->
+  <a title = "Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
+  &nbsp;
+    <!-- SoapUI  -->
+  <a title = "SoapUI" href="https://www.soapui.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" alt="SoapUI" height = "45" width="45"/> </a>
+  &nbsp;
+  <!-- Jira  -->
+   <a title = "JIRA" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://symphony.com/wp-content/uploads/2020/12/sd-integrations-logo-jira.png" alt="Jira" width="40"/> </a>
+   &nbsp;
+   <!--Jenkins-->
+<a title = "Jenkins" href="https://www.jenkins.io/" target="_blank"> <img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" alt="Jenkins" width="40"/> </a>
+&nbsp;
+  <!--Saucslabs-->
+ <a title = "Sauce Labs" href="https://saucelabs.com/" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1479221701/v0d4moz4jx0wultjuxec.png" alt="Saucslabs" width="40"/> </a> 
+ &nbsp; 
+  <!-- Browserstack  -->
+  <a title = "BrowserStack" href="https://www.browserstack.com/"  target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" alt="Browserstack" width="40"/> </a>
+  &nbsp;
+  <!-- SDLC  -->
+<!--   <a href="" target="_blank"> <img src="https://t4.ftcdn.net/jpg/05/41/91/07/360_F_541910787_PROoPe5SAXpM1ZQbD0kJtXHDp1pjjfcV.jpg" alt="SDLC" width="40"/> </a>
+  &nbsp; -->
+  <!-- Eclipse  -->
+<a title = "Eclipse" href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40"/> </a>
+&nbsp;
+  <!-- IntelliJ IDea -->
+<a title= "IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
+&nbsp;
+<!-- Pycharm -->
+<a title = "PyCharm" href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a>
+&nbsp;
+<!-- Webstorm -->
+<a title = "WebStorm" href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
+&nbsp;
+ <!-- VS code  -->
+<a title = "VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
+&nbsp;
+  <!-- Hadoop -->
+<!-- <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
+&nbsp; -->
+</p> 
+
+<div align="center">
+<h1 align="center"></h1>  
+<!-- <img width="105" height="105" src="" /> -->
+<h3>All About Me</h3>
+<!-- You can write at your own -->
+<h5>  
+This is Mohammad Sharkar. Currently I am working at Verizon as a Technology Lead. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
+<br>
+In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis.
+</h5>
+</div>
+
+ <!--- Portfolio/Website --->  
+  
+<div align="center">
+<h1 align="center"></h1>  
+<!-- <img width="105" height="105" src="" /> -->
+<h3>Portfolio/Website</h3>
+   
+  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Mohammad Sharkar`</a>
+  
+<!--   <h3 align="center">
+    my creation another website 
+    </h2>
+   
+  `West More Land's` -> <a href="https://west-more-land-s.web.app/" target="_blank">`website`</a>|
+  `frontend` -> <a href="https://github.com/mdyeamin/-niche-website-client-side" target="_blank">`Github code`</a>|
+  `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a>
+   </br>
+
+`Travel curios` -> <a href="https://travel-curiosity.web.app/" target="_blank">`website`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-client-side" target="_blank">`Github code`</a>|
+`backend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-server-side" target="_blank">`Github code`</a>
+
+`Health Sense` -> <a href="https://health-sense-d3b2a.web.app/" target="_blank">`website`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/-healthcare-react-firebase" target="_blank">`Github code`</a>| -->
+
+  <!-- `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a> -->
+
+<!-- `Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
+`frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>| 
+
+  <div align="center">
+<img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
+  </div> 
+
+<hr> -->
+
+<!-- most used language  -->
+<div align="center">
+<h1 align="center"></h1>  
+<!-- <img width="105" height="105" src="" /> -->
+<!-- <h3></h3> -->
+
+&nbsp;**This week I spent my time on**
+
+ <p align="center">
+  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofaelkabir&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+
+<!-- wakatime  -->
+<!--START_SECTION:waka-->
+
+ <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg)  -->
+
+<!-- <img  width="420px" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg"> -->
+
+</p>
+
+<p align="center">
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=tofaelkabir&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=tofaelkabir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
