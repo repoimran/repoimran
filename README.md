@@ -1,5 +1,5 @@
 <div align="center">
- 
+ <h2 align="left">Hi 👋! My name is Imran Ahmed</h2>
 
 <!-- You can use + symbol or %20 to give a space between words -->
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
@@ -125,17 +125,7 @@
 &nbsp; -->
 </p> 
 
-<div align="center">
-<h1 align="center"></h1>  
-<!-- <img width="105" height="105" src="" /> -->
-<h3>All About Me</h3>
-<!-- You can write at your own -->
-<h5>  
-This is Mohammad Sharkar. Currently I am working at Verizon as a Technology Lead. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
-<br>
-In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis.
-</h5>
-</div>
+
 
  <!--- Portfolio/Website --->  
   
@@ -144,7 +134,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 <!-- <img width="105" height="105" src="" /> -->
 <h3>Portfolio/Website</h3>
    
-  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Mohammad Sharkar`</a>
+  `Personal Website` -> <a href="#" target="_blank">`Imran Ahmed`</a>
   
 <!--   <h3 align="center">
     my creation another website 
