@@ -120,7 +120,7 @@
  
 <div align="center">
 <h1 align="center"></h1>  
-<img width="105" height="105" src="" /> 
+
 <h3>Portfolio/Website</h3>
    
   `Personal Website` -> <a href="#" target="_blank">`Imran Ahmed`</a>
@@ -133,3 +133,4 @@
 <p align="center">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=repoimran&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=repoimran&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+</p>
