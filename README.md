@@ -14,16 +14,15 @@
 <p align="center">
   <a title = "347-653-7214" href="" target="blank"><img align="center" src="https://i.pinimg.com/originals/84/4e/8c/844e8cd4ab26c82286238471f0e5a901.png" alt="Call" height="40" width="40" /></a>
   &nbsp;
-  <a title = "tofaelkabir@gmail.com"  href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+  <a title = "repoimran@gmail.com"  href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
   &nbsp;
 <!-- Use your linkedin account url at href -->
-<a title = "LinkedIn" href="https://www.linkedin.com/in/mohammadsharkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
-<a title = "Facebook" href="https://www.facebook.com/mohammad.t.sharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a>
-<a title = "Twitter" href="https://twitter.com/tofael483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/16836780/md-yeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="40" width="40" /></a> -->
-<!-- <a href="https://medium.com/@coderyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
-<a href="https://discord.gg/Md Yeamin#6366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md Yeamin#6366" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/raselofficialyoutube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raselofficialyoutube" height="30" width="40" /></a> -->
+<a title = "LinkedIn" href="https://www.linkedin.com/in/imrannyc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
+<a title = "Facebook" href="https://www.facebook.com/Imsdhk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/mdyeamin05" height="30" width="40" /></a>
+<a title = "Twitter" href="https://twitter.com/drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rasel__official" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6676421/imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16836780/md-yeamin" height="40" width="40" /></a> 
+<a href="https://medium.com/@drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@coderyeamin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@drgreen203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raselofficialyoutube" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -40,8 +39,8 @@
 <a title = "JavaScript" href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a> 
   &nbsp; 
  <!-- NodeJS --> 
-<!--  <a title = "NodeJS" href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
-  &nbsp; -->
+ <a title = "NodeJS" href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" />
+  &nbsp; 
   <!-- HTML -->
   <a title = "HTML" href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="HTML" width="40" /> </a>
   &nbsp;
@@ -127,7 +126,7 @@
 
 
 
- <!--- Portfolio/Website --->  
+ <!--- Portfolio/Website -->  
   
 <div align="center">
 <h1 align="center"></h1>  
@@ -184,5 +183,5 @@
 </p>
 
 <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=tofaelkabir&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=tofaelkabir&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=repoimran&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=repoimran&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
