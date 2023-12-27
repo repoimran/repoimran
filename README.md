@@ -4,7 +4,7 @@
 <!-- You can use + symbol or %20 to give a space between words -->
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
  <h3 align="center">You can Hire me As</h3> 
-<!--  DS%20|%20Algorithms%20|%20OOP%20;  -->
+DS%20|%20Algorithms%20|%20OOP%20; 
 <h2 align="center">
 <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&color=98acf2&width=500&height=50"></a>
 </h2>
@@ -110,75 +110,30 @@
   <!-- IntelliJ IDea -->
 <a title= "IntelliJ IDEA" href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDea " width="40"/> </a>
 &nbsp;
-<!-- Pycharm -->
-<a title = "PyCharm" href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm " width="40"/> </a>
-&nbsp;
-<!-- Webstorm -->
-<a title = "WebStorm" href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="Webstorm " width="40"/> </a>
-&nbsp;
  <!-- VS code  -->
 <a title = "VSCode" href="https://code.visualstudio.com/"target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS code " width="40"/> </a>
 &nbsp;
-  <!-- Hadoop -->
-<!-- <a href="" target="_blank"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="Hadoop " width="40"/> </a>
-&nbsp; -->
 </p> 
 
 
-
- <!--- Portfolio/Website -->  
-  
+ 
 <div align="center">
 <h1 align="center"></h1>  
-<!-- <img width="105" height="105" src="" /> -->
+<img width="105" height="105" src="" /> 
 <h3>Portfolio/Website</h3>
    
   `Personal Website` -> <a href="#" target="_blank">`Imran Ahmed`</a>
   
-<!--   <h3 align="center">
-    my creation another website 
-    </h2>
-   
-  `West More Land's` -> <a href="https://west-more-land-s.web.app/" target="_blank">`website`</a>|
-  `frontend` -> <a href="https://github.com/mdyeamin/-niche-website-client-side" target="_blank">`Github code`</a>|
-  `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a>
-   </br>
 
-`Travel curios` -> <a href="https://travel-curiosity.web.app/" target="_blank">`website`</a>|
-`frontend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-client-side" target="_blank">`Github code`</a>|
-`backend` -> <a href="https://github.com/mdyeamin/tourism-or-delivery-website-server-side" target="_blank">`Github code`</a>
 
-`Health Sense` -> <a href="https://health-sense-d3b2a.web.app/" target="_blank">`website`</a>|
-`frontend` -> <a href="https://github.com/mdyeamin/-healthcare-react-firebase" target="_blank">`Github code`</a>| -->
-
-  <!-- `backend` -> <a href="https://github.com/mdyeamin/-niche-website-server-side" target="_blank">`Github code`</a> -->
-
-<!-- `Code Education` -> <a href="https://procodeeducation.netlify.app/" target="_blank">`website`</a>|
-`frontend` -> <a href="https://github.com/mdyeamin/review-website-react" target="_blank">`Github code`</a>| 
-
-  <div align="center">
-<img height="40" src="img/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
-  </div> 
-
-<hr> -->
-
-<!-- most used language  -->
 <div align="center">
 <h1 align="center"></h1>  
-<!-- <img width="105" height="105" src="" /> -->
-<!-- <h3></h3> -->
+
 
 &nbsp;**This week I spent my time on**
 
  <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofaelkabir&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
-
-<!-- wakatime  -->
-<!--START_SECTION:waka-->
-
- <!-- ![md yeamin wakatime stats](https://wakatime.com/share/@mdyeamin/54d5a533-f4e7-46c1-979d-0342a1b4a0e5.svg)  -->
-
-<!-- <img  width="420px" alt="This week I spent my time on" src="https://wakatime.com/share/@mdyeamin/de026aac-1367-42ce-b23e-5d840c3d2fef.svg"> -->
+  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repoimran&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
 
 </p>
 
