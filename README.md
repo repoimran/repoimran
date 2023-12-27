@@ -4,7 +4,7 @@
 <!-- You can use + symbol or %20 to give a space between words -->
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
  <h3 align="center">You can Hire me As</h3> 
-DS%20|%20Algorithms%20|%20OOP%20; 
+
 <h2 align="center">
 <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&color=98acf2&width=500&height=50"></a>
 </h2>
@@ -80,9 +80,10 @@ DS%20|%20Algorithms%20|%20OOP%20;
   <!-- Karate Framework -->
 <a title = "Karate" href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/1200px-Karate_software_logo.svg.png" alt="Karate Framework " width="40"/> </a>
   &nbsp;
-  <!-- Appium  -->
+  <!-- Appium 
    <a title = "Appium" href="https://appium.io/" target="_blank"> <img src="https://cdn.testingbot.com/assets/integrations/appium-75e88eb18ca3b2ce63d641547ce06398c8ecd971ed17187c9134c8d205465f18.svg" alt="Appium" width="40"/> </a>
   &nbsp;
+   -->
   <!-- Postman  -->
   <a title = "Postman" href="https://www.postman.com/downloads/" target="_blank"> <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40"/> </a>
   &nbsp;
@@ -123,19 +124,11 @@ DS%20|%20Algorithms%20|%20OOP%20;
 <h3>Portfolio/Website</h3>
    
   `Personal Website` -> <a href="#" target="_blank">`Imran Ahmed`</a>
-  
-
-
 <div align="center">
 <h1 align="center"></h1>  
 
 
 &nbsp;**This week I spent my time on**
-
- <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repoimran&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
-
-</p>
 
 <p align="center">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=repoimran&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
